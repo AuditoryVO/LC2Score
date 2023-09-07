@@ -9,6 +9,5 @@ CONTENTS
 INSTALLATION
 
 - Download the data: https://archive.stsci.edu/pub/kepler/lightcurves/
-- Download all the content into the same folder
-- Run the Jupyter notebook
+- Run the Jupyter notebook with all the dependencies installed
 - Enjoy the musifications!
