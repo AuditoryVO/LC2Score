@@ -1,5 +1,5 @@
 # LC2Score
-Automatic score generation from the analysis of the periodograms of the lightcurves from the Kepler Exoplanet Object of Interest (KOI) archive. Data: STScI.
+Automatic score generation from the Box Least Squares Periodogram analysis of the lightcurves from Kepler Exoplanet Object of Interest (KOI) archive. Data: STScI.
 
 CONTENTS
 
